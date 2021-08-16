@@ -1,4 +1,4 @@
-package com.mail.springbootimaplistener;
+package com.mail.springbootimaplistener.config;
 
 import com.mail.springbootimaplistener.service.ReceiveMailService;
 import lombok.AccessLevel;

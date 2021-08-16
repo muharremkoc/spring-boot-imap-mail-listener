@@ -1,4 +1,4 @@
-package com.mail.springbootimaplistener;
+package com.mail.springbootimaplistener.config;
 
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;
